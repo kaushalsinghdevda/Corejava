@@ -4,7 +4,7 @@ public class Prime_num {
 	
 	public static void main(String args[]) {
 		
-		int a=6,i;
+		int a=7,i;
 		
 		
 		for(i=2;i<a;i++) {
